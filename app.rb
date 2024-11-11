@@ -8,5 +8,5 @@ end
 
 get '/api' do
     content_type :json
-    { message: 'Hello, JSON API!' }.to_json
+    { message: 'Hello, Silence, via JSON API!' }.to_json
 end
