@@ -1,4 +1,4 @@
-# Silence App
+# Nosilence - a Test App
 
 A simple Sinatra app.
 
