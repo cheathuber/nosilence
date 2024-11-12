@@ -7,7 +7,7 @@ get '/' do
 end
 
 get '/silence' do
-  '<nothing>'
+  '<say nothing>'
 end
 
 get '/api/v1' do
