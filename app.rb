@@ -6,6 +6,10 @@ get '/' do
   'Hello, Silence!'
 end
 
+get '/silence' do
+  '<nothing>'
+end
+
 get '/api/v1' do
     content_type :json
     { message: 'Hello, Silence, via JSON API!' }.to_json
